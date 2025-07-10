@@ -3,11 +3,14 @@ Lean tutorial on 10th July 2025
 
 # Installation instructions
 There are 3 Lean files here. You can use them in your local installation of Lean, or use them online on the [Lean 4 web editor](https://live.lean-lang.org/). If you are new to Lean, start with the Basic file and then choose what you like!
-To get a local version, run the followig in your terminal in a suitabole folder:
+
+You must first install Lean: instructions given [here](https://lean-lang.org/install/). To then get a local version of this repository, run the following in your terminal in a suitable folder:
 * run `git clone https://github.com/laughinggas/KIASLeanTut/`
 * run `cd KIASLeanTut`
 * run `lake update`
 * run `lake exe cache get`
+
+Note that this repository requires Mathlib, which is obtained by following the last two commands.
 
 # Using pre-saved files on the web editor
 Here are links to pre-saved files on the editor:

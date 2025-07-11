@@ -2,7 +2,7 @@
 Lean tutorial on 10th July 2025
 
 # Installation instructions
-There are 3 Lean files here. You can use them in your local installation of Lean, or use them online on the [Lean 4 web editor](https://live.lean-lang.org/). If you are new to Lean, start with the Basic file and then choose what you like!
+There are 3 Lean files here. You can use them in your local installation of Lean, or use them online on the [Lean 4 web editor](https://live.lean-lang.org/) or the [ReasLab Playground](https://alpha.reaslab.io/playground). If you are new to Lean, start with the Basic file and then choose what you like!
 
 You must first install Lean: instructions given [here](https://lean-lang.org/install/). To then get a local version of this repository, run the following in your terminal in a suitable folder:
 * run `git clone https://github.com/laughinggas/KIASLeanTut/`
